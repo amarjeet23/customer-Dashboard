@@ -1,0 +1,90 @@
+
+ .sidebar{
+  width: 13%;
+    height: 700px;
+    background-color: #2172ab;
+    position: fixed;
+    top: 90px;
+    z-index:99
+
+} 
+.header{
+  background-color:#3B5998;
+  
+  width: 100%;
+  height: 90px;
+  position:fixed;
+  z-index: 99;
+  text-align: right;
+  padding: 15px 15px;
+  color: #fff;
+  z-index:99;
+}
+.header ul li{
+  color:white;
+  text-align:right;
+  margin:22px;
+  
+  
+}
+/* .upper{
+  position:relative;
+  left:10px;
+  top:10px;
+  
+  
+} */
+
+.headerbutton{
+  background: #222;
+    bottom: 49px;
+    position: relative;
+    right: 12px;
+}
+/* .sidebutton{ 
+  font-size: 15px;
+  line-height: 1.5;
+  border-left: 3px solid #0f9d58;
+  margin-top: 35px;
+  margin-left: 12px; 
+  margin-right: 12px; 
+  width:90%;
+  height:55px;
+ background-color:#0f9d58;
+ padding-top:3px;
+} */
+
+.sidebutton{
+  margin-top:1px;
+  /* padding: 10px 20px; */
+  color: black;
+  border: none;
+  border-radius: 5px;
+  line-height: normal;
+  min-width: 50%;
+  height: 8%;
+  width:100%;
+  border:1px solid black;
+  background-color:#ccc
+}
+.dashboard{
+  position:relative;
+  left:60px;
+  top:220px;
+
+}
+.upper{
+  position:relative;
+  top:140px;
+  left:60px;
+  min-width:30%;
+}
+.showupper{
+  position:relative;
+  top:120px;
+  left:110px;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+.Sidebutton button{
+
+    font-size: 15px;
+    line-height: 1.5;
+    border-left: 3px solid #0f9d58;
+    margin-top: 35px;
+    margin-left: 25px;
+    background-color: #fff;
+    width:70%;
+    height:50px;
+    background-color:#ccc;
+}
+.showallapi{
+    position :relative;
+    top:100px;
+    left:200px;
+}
